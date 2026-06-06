@@ -1,5 +1,5 @@
-Challenge: images_in_my_mind
-Creator: nmluan
+Challenge Title: `images_in_my_mind`
+Author: `nmluan`
 
 Description:
 Someone plugged a USB drive into a workstation connected to the cluster

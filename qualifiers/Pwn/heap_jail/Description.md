@@ -1,3 +1,3 @@
-Title: Heap Jail<br>
-Author: iwanttosleep<br>
+Challenge Title: `Heap Jail`<br>
+Author: `iwanttosleep`<br>
 Description: Mandatory heap challenge

@@ -1,0 +1,11 @@
+Challenge Title: `Very Bad Accounting`<br>
+Author: `nmluan`<br>
+
+Description:<br>
+An anonymous tip led auditors to a spreadsheet left behind by a departing
+finance contractor. The file opens cleanly, except for one sheet that is
+nothing but errors.<br>
+
+Turns out, the errors were quite intentional.<br>
+
+Distributed file: equilibrium.xlsx

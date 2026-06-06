@@ -1,5 +1,5 @@
-Challenge Title: Solaris JIT<br>
-Author: Chthonic Cream<br>
+Challenge Title: `Solaris JIT`<br>
+Author: `Chthonic Cream`<br>
 Description:<br>
 The Solaris Space Station relies on high-speed thruster telemetry loops to maintain orbital stability. To maximize efficiency and ensure microsecond responsiveness, the telemetry supervisor uses a custom virtual machine with an active range-analysis JIT optimizer.<br>
 <br>

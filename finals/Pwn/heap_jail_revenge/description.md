@@ -1,0 +1,3 @@
+Challenge Title: `Heap jail Revenge`<br>
+Author: `iwanttosleep`<br>
+Description: Trapped again, without a chance at 'free()dom'?

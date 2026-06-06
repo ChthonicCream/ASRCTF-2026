@@ -1,5 +1,5 @@
-Challenge Title: Phantom Firmware<br>
-Author: Chthonic Cream<br>
+Challenge Title: `Phantom Firmware`<br>
+Author: `Chthonic Cream`<br>
 Description:<br>
 *Stardate 2487.3 - Kepler-442b Orbital Corridor*<br>
 <br>

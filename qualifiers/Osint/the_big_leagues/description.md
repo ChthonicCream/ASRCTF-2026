@@ -1,3 +1,4 @@
-Title: The Big Leagues\
-Author: YYX\
+Challenge Title: `The Big Leagues`<br>
+Author: `YYX`<br>
+Description:<br>
 Flag Format: ASRCTF{??°??'??.?''N,???°??'??.?''W}

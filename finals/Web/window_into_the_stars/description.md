@@ -1,3 +1,6 @@
+Challenge Title: Window Into the Stars<br>
+Author: Ivann<br>
+Description:<br>
 We've discovered a hidden database used by deep space researchers to log alien signals. 
 The flag is stored safely inside the Admin Bot's private account.
 

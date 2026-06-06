@@ -1,7 +1,6 @@
-Author: Ivann
-
-## Description
-
+Challenge Title: `Cosmic Leak`<br>
+Author: `Ivann`<br>
+Description:<br>
 Ground Control has noticed suspicious behavior from one of our orbit navigation engineers, suspected of working with a competitor.
 Security logs indicate that a large transmission was sent to an external server right before they went offline. 
 

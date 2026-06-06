@@ -1,3 +1,6 @@
+Challenge Title: `Asteroid Defender`<br>
+Author: `Ivann`<br>
+Description:<br>
 Our asteroid early-warning AI has malfunctioned.The auto-shield system is offline.
 
 The radar CAN still detect incoming asteroids and report their unique "Trajectory Signature", a raw value output from the station's

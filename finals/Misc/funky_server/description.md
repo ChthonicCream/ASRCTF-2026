@@ -1,3 +1,3 @@
-Title: Funky Server
-Author: iwanttosleep
+Challenge Title: `Funky Server`<br>
+Author: `iwanttosleep`<br>
 Description: What kind of server has games???
